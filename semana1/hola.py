@@ -1,0 +1,5 @@
+print("Hola, soy Ricardo")
+print("Estoy aprendiendo a programar en Python")
+print("Mi meta: crear herramientas para mi trabajo y mi futura agencia")
+print("Arequipa")
+print("23/12/2024")
