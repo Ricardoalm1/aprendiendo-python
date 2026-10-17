@@ -1,0 +1,7 @@
+nombre_completo = input("Ëscribe tu nombre completo: ")
+print(f"hola, {nombre_completo}")
+print("Ën mayusculas:", nombre_completo.upper())
+print("Ën minusculas:", nombre_completo.lower())
+print("Cantidad de caracteres:", len(nombre_completo))
+print("Primera letra:", nombre_completo[0])
+print("Ültima letra:", nombre_completo[-1])
